@@ -1,0 +1,14 @@
+layout_spectrum: 0.2082540807314217
+typography_spectrum: 0.9152404896449298
+color:
+  brandStrength: 0.788098796736449
+  lightness: 0.44124566996470094
+  saturation: 0.745225589023903
+  rhythmicContrast: 0.510094030527398
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: SOLAXAI
