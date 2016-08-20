@@ -12,3 +12,7 @@ color:
     - '#F890BA'
     - '#AA0055'
 name: SOLAXAI
+navigation:
+  - name: TWITCH.TV
+    url: 'https://www.twitch.tv/solaxai'
+    type: external
