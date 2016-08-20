@@ -16,3 +16,6 @@ navigation:
   - name: TWITCH.TV
     url: 'https://www.twitch.tv/solaxai'
     type: external
+  - name: Instagram
+    url: 'https://www.instagram.com/shilinliu/'
+    type: external
